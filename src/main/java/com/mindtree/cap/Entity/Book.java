@@ -4,7 +4,7 @@ public class Book {
   private int id;
   private String name;
   private String author;
- private int bookpage
+ private int bookpage;
 	
 public Book(int id, String name, String author) {
 	super();
